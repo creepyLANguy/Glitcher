@@ -6,3 +6,7 @@ ipch/
 x64/
 
 img/Thumbs\.db
+
+*.db
+
+*.opendb
