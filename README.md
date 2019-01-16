@@ -1,7 +1,6 @@
 Glitcher - A _highly_ configurable image glitching tool. 
 
-
-TODO:
+A message to myself : these are still TODO:
 - Limit image input types (You don't even know how the flags operate - yet.) CV_8UC3 ?!?!?!  
 - Alpha processing  
 - Blur?  
